@@ -33,7 +33,7 @@ function Products() {
     },
   ];
   return (
-    <div className="bg-zinc-900">
+    <div className="bg-zinc-900 mt-32">
       {products.map((val, index) => (
         <Product val={val} 
         key={index} />
