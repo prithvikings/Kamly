@@ -10,3 +10,7 @@ App
     Blocks
         Block
     Footer
+
+Animation
+Smoothness-Locomotive-js -beta
+animation of work component
